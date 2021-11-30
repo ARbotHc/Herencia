@@ -1,0 +1,82 @@
+public class SeleccionFutbol 
+ { 
+ 
+   protected  int ci; 
+   protected String nombre; 
+   protected String apellidos; 
+   protected int edad; 
+   protected String pos; 
+   protected int nro; 
+ 
+  // constructor, getter y setter 
+ 
+  public int setCi () { 
+   
+  } 
+ 
+  public void getCi() { 
+    
+  } 
+ 
+   
+ }
+private int ci; 
+  private String nombre; 
+  private String apellidos; 
+  private int edad; 
+  private String pos; 
+  private int nro; 
+  // constructor, getter y setter 
+ 
+  public void Concentrarse() { 
+  
+  } 
+ 
+  public void Viajar() { 
+   
+  } 
+ 
+  public void jugarPartido() { 
+   ... 
+  } 
+ 
+  public void entrenar() { 
+    
+  }
+private int ci; 
+  private String nombre; 
+  private String apellidos; 
+  private int edad; 
+  private String codEntren; 
+ 
+  // constructor, getter y setter 
+ 
+  public void Concentrarse() { 
+   
+  } 
+ 
+  public void Viajar() { 
+   
+  }
+ 
+  public void dirigirPartido() { 
+
+  }
+private int ci; 
+  private String nombre; 
+  private String apellidos; 
+  private int edad; 
+  private int experiencia; 
+ 
+  // constructor, getter y setter 
+ 
+  public void Concentrarse() { 
+   
+  } 
+ 
+  public void Viajar() { 
+   
+  } 
+ 
+  public void Masajear() { 
+
